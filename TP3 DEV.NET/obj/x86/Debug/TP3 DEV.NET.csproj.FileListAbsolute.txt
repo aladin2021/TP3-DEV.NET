@@ -1,0 +1,7 @@
+C:\Users\ASUS\documents\visual studio 2010\Projects\TP3 DEV.NET\TP3 DEV.NET\bin\Debug\TP3 DEV.NET.exe
+C:\Users\ASUS\documents\visual studio 2010\Projects\TP3 DEV.NET\TP3 DEV.NET\bin\Debug\TP3 DEV.NET.pdb
+C:\Users\ASUS\documents\visual studio 2010\Projects\TP3 DEV.NET\TP3 DEV.NET\obj\x86\Debug\TP3_DEV.NET.Form1.resources
+C:\Users\ASUS\documents\visual studio 2010\Projects\TP3 DEV.NET\TP3 DEV.NET\obj\x86\Debug\TP3_DEV.NET.Properties.Resources.resources
+C:\Users\ASUS\documents\visual studio 2010\Projects\TP3 DEV.NET\TP3 DEV.NET\obj\x86\Debug\TP3 DEV.NET.csproj.GenerateResource.Cache
+C:\Users\ASUS\documents\visual studio 2010\Projects\TP3 DEV.NET\TP3 DEV.NET\obj\x86\Debug\TP3 DEV.NET.exe
+C:\Users\ASUS\documents\visual studio 2010\Projects\TP3 DEV.NET\TP3 DEV.NET\obj\x86\Debug\TP3 DEV.NET.pdb
